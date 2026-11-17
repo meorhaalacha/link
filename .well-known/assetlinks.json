@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.meorhaalacha.mishnaberura",
+      "sha256_cert_fingerprints": [
+        "F5:86:07:78:4E:F7:4C:3A:EC:A2:04:51:88:37:BE:27:55:5D:14:03:43:11:05:9E:43:DD:00:50:C0:D9:62:07",
+        "09:C0:F7:1E:6B:B2:BF:FF:40:55:A0:B2:AC:38:51:1E:18:26:45:6F:A7:51:95:3E:6F:9B:95:08:65:5F:8C:11"
+      ]
+    }
+  }
+]
