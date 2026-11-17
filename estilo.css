@@ -1,0 +1,15 @@
+/* Gerado por Dados/gerar_site_links.mjs no repositorio do app: nao editar aqui. */
+:root { --papel:#F7F1E3; --tinta:#2B2118; --clara:#6B5B4B; --marca:#13254A; --linha:#E2D6BC; --ouro:#A9832F; }
+* { box-sizing:border-box; }
+body { margin:0; background:var(--papel); color:var(--tinta);
+  font-family: Georgia, "Times New Roman", serif; font-size:19px; line-height:1.6; }
+main { max-width:560px; margin:0 auto; padding:40px 20px 56px; text-align:center; }
+.topo svg { display:block; margin:0 auto 8px; }
+.nome { font-size:24px; color:var(--marca); margin:0 0 28px; }
+h1 { color:var(--marca); font-size:30px; line-height:1.35; margin:0 0 6px; font-weight:normal; }
+.sub { color:var(--clara); font-size:18px; margin:0 0 24px; }
+.texto { margin:0 0 28px; }
+.botoes { display:flex; flex-direction:column; gap:12px; align-items:stretch; margin:0; }
+.botao { display:block; padding:14px 18px; border-radius:12px; text-decoration:none;
+  border:2px solid var(--marca); color:var(--marca); font-size:18px; }
+.botao.forte { background:var(--marca); color:var(--papel); }
