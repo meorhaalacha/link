@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "W7YJA35B59.com.meorhaalacha.mishnaberura"
+        ],
+        "components": [
+          {
+            "/": "/",
+            "exclude": true
+          },
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  }
+}
